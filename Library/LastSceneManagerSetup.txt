@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Esenas/CazaCiervos.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
